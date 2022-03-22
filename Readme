@@ -1,0 +1,4 @@
+Libraries used are following :-
+1.Retrofit - to fetch data from the news api
+2.Picasso - to show fetched image data
+3.Firebase - to authorize the user for registration and login 
